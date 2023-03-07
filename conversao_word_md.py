@@ -2,7 +2,7 @@ import os.path
 import win32com.client
 import pypandoc
 
-baseDir = 'stc2'
+baseDir = 'xxxxxx'
 
 word = win32com.client.Dispatch("Word.application")
 
